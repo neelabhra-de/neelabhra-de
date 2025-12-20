@@ -1,16 +1,87 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Neelabhra De</h1>
 
-<!--
-**neelabhra-de/neelabhra-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Python+Developer;Exploring+Google+Cloud;Building+Real+World+Projects" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 MERN Stack Developer  
+- 🐍 Python for backend & automation  
+- ☁️ Google Cloud Platform (basics)  
+- 🧠 Learning in public & building projects  
+- 🎯 Focused on clean, scalable web apps  
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,python,cpp,c,html,css,tailwind,gcp,git&theme=dark" />
+</p>
+
+---
+
+## 🏅 Holopin Badges
+<p align="center">
+  <a href="https://www.holopin.io/@neelabhrade">
+    <img src="https://holopin.io/api/user/board?user=neelabhrade" />
+  </a>
+</p>
+
+---
+
+## ☁️ Google Cloud Badges
+<p align="center">
+  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12491580">
+    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12491580/image" width="130"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12274885">
+    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12274885/image" width="130"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/11882996">
+    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/11882996/image" width="130"/>
+  </a>
+  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12337765">
+    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12337765/image" width="130"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neelabhra-de&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelabhra-de&theme=tokyonight" />
+</p>
+
+---
+
+## 🧩 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhra-de&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/neelabhra-de/neelabhra-de/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/neelabhra-de-b87351350/">
+    <img src="https://img.shields.io/badge/LinkedIn-Neelabhra%20De-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/neelabhra-de">
+    <img src="https://img.shields.io/badge/GitHub-neelabhra--de-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+⭐ *Consistency > Motivation*
