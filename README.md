@@ -76,4 +76,5 @@
 
 ---
 
-⭐ *Consistency > Motivation*
+⭐ *Train like an athlete. Build like an engineer.*
+
