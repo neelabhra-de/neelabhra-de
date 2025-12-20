@@ -62,7 +62,6 @@
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/neelabhra-de/neelabhra-de/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 ## 🌐 Connect With Me
