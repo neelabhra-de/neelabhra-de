@@ -33,19 +33,12 @@
 
 ## ☁️ Google Cloud Badges
 <p align="center">
-  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12491580">
-    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12491580/image" width="130"/>
-  </a>
-  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12274885">
-    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12274885/image" width="130"/>
-  </a>
-  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/11882996">
-    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/11882996/image" width="130"/>
-  </a>
-  <a href="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12337765">
-    <img src="https://www.skills.google/public_profiles/0ba64426-6220-4700-8d19-51f3794ee290/badges/12337765/image" width="130"/>
-  </a>
+  <img src="assets/gcp-badges/gcp-1.png" width="130"/>
+  <img src="assets/gcp-badges/gcp-2.png" width="130"/>
+  <img src="assets/gcp-badges/gcp-3.png" width="130"/>
+  <img src="assets/gcp-badges/gcp-4.png" width="130"/>
 </p>
+
 
 ---
 
