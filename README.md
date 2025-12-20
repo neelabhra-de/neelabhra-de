@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Neelabhra De</h1>
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />, I'm Neelabhra De
+</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+(MERN);Python+Developer;Exploring+Google+Cloud;Building+Real+World+Projects" />
