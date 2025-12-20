@@ -40,6 +40,7 @@
   <img src="assets/gcp-badges/gcp-2.png" width="130"/>
   <img src="assets/gcp-badges/gcp-3.png" width="130"/>
   <img src="assets/gcp-badges/gcp-4.png" width="130"/>
+  <img src="assets/gcp-badges/gcp-5.png" width="130"/>
 </p>
 
 
