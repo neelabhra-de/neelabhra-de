@@ -48,11 +48,11 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelabhra-de&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neelabhra-de&theme=tokyonight&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=neelabhra-de&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=neelabhra-de" />
 </p>
 
 ---
