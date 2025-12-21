@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neelabhra-de&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=neelabhra-de&theme=tokyonight" />
 </p>
 
 ---
