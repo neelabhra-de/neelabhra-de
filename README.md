@@ -47,17 +47,13 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neelabhra-de&show_icons=true&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=neelabhra-de&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=neelabhra-de&theme=tokyonight" />
-</p>
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=neelabhra-de&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhra-de&layout=compact&theme=tokyonight" />
-</p>
+## 🧩 Most Used Languages
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhra-de&layout=compact&theme=tokyonight)
 
 ---
 
