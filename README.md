@@ -47,7 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=neelabhra-de&show_icons=true&theme=tokyonight)
+![Stats]([https://github-readme-stats.vercel.app/api?username=neelabhra-de&show_icons=true&theme=tokyonight](https://readme-stats-fast.vercel.app/api?username=neelabhra-de&show_icons=true&theme=tokyonight))
 
 ## 🔥 GitHub Streak
 ![Streak](https://streak-stats.demolab.com?user=neelabhra-de&theme=tokyonight)
