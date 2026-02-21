@@ -60,7 +60,6 @@
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/neelabhra-de/neelabhra-de/blob/output/github-contribution-grid-snake.svg)
 ---
-<img src="https://capsule-render.vercel.app/api?type=wave&color=36BCF7&height=100&section=footer"/>
 
 ## ⚡ Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhra-de&theme=tokyo-night" />
