@@ -53,7 +53,7 @@
 ![Streak](https://streak-stats.demolab.com?user=neelabhra-de&theme=tokyonight)
 
 ## 🧩 Most Used Languages
-![Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=neelabhra-de&layout=compact&theme=tokyonight](https://readme-stats-fast.vercel.app/api/top-langs/?username=neelabhra-de))
+![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=neelabhra-de&layout=compact&theme=tokyonight)
 
 ---
 
