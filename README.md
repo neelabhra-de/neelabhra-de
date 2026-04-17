@@ -49,9 +49,6 @@
 ## 📊 GitHub Stats
 ![Neelabhra's GitHub Stats](https://readme-stats-fast.vercel.app/api?username=neelabhra-de&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
-![Streak](https://streak-stats.demolab.com?user=neelabhra-de&theme=tokyonight)
-
 ## 🧩 Most Used Languages
 ![Top Languages](https://readme-stats-fast.vercel.app/api/top-langs/?username=neelabhra-de&layout=compact&theme=tokyonight)
 
