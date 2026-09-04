@@ -61,7 +61,7 @@
 
 ## ⚡ Contribution Graph
 
-<img src="https://raw.githubusercontent.com/neelabhra-de/neelabhra-de/output/activity-graph.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/neelabhra-de/neelabhra-de/activity-graph/activity-graph.svg" width="100%" />
 
 ## 🌐 Connect With Me
 <p align="center">
