@@ -61,7 +61,7 @@
 
 ## ⚡ Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhra-de&theme=github-compact" width="100%" />
+<img src="https://raw.githubusercontent.com/neelabhra-de/neelabhra-de/output/activity-graph.svg" width="100%" />
 
 ## 🌐 Connect With Me
 <p align="center">
