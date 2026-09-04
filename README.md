@@ -58,8 +58,10 @@
 ![snake gif](https://github.com/neelabhra-de/neelabhra-de/blob/output/github-contribution-grid-snake.svg)
 ---
 
+
 ## ⚡ Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhra-de&theme=tokyo-night&hide_border=true" width="100%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhra-de&theme=github-compact" width="100%" />
 
 ## 🌐 Connect With Me
 <p align="center">
