@@ -59,7 +59,7 @@
 ---
 
 ## ⚡ Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhra-de&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=neelabhra-de&theme=tokyo-night&hide_border=true" width="100%"/>
 
 ## 🌐 Connect With Me
 <p align="center">
