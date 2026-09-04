@@ -59,7 +59,7 @@
 ---
 
 
-## ⚡ Contribution Graph
+## ⚡ Activity Graph
 
 <img src="https://raw.githubusercontent.com/neelabhra-de/neelabhra-de/activity-graph/activity-graph.svg" width="100%" />
 
